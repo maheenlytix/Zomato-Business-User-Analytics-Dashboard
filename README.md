@@ -42,8 +42,8 @@ City-level analysis helps compare sales, orders, ratings and active users across
 
   ## Dashboard Screenshots
 
-  <img width="1266" height="718" alt="image" src="https://github.com/user-attachments/assets/f5a19821-a26e-42ec-8ab7-d753fb3fea83" />
-  <img width="1266" height="711" alt="image" src="https://github.com/user-attachments/assets/d7f5190e-4270-4291-b774-9c3e2c618ab8" />
+<img width="1282" height="723" alt="image" src="https://github.com/user-attachments/assets/a561ff60-71fb-49a2-81d3-d67651ce0a0e" />
+  <img width="1270" height="717" alt="image" src="https://github.com/user-attachments/assets/59e45ab3-b154-4486-ae5b-42c97a1bb7c3" />
   <img width="1270" height="719" alt="image" src="https://github.com/user-attachments/assets/dc052fc1-a6cf-46ca-84ef-f849c53efcea" />
 
 
